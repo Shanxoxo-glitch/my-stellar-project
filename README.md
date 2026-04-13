@@ -12,8 +12,7 @@ Soroban Task Marketplace is a lightweight, on-chain platform that enables users 
 It brings the concept of freelance micro-tasking to the blockchain — ensuring transparency, ownership, and secure coordination between participants.
 
 ---
-DEPLOYED LINK
-https://stellar.expert/explorer/testnet/contract/CD6AOLKD2KCYGC4D2TM4OXXG73MGMZ7EV3KRROUX6OHWWB3SIY2VQ2SL
+
 
 ## ✨ Key Highlights
 
@@ -83,6 +82,9 @@ https://stellar.expert/explorer/testnet/contract/CD6AOLKD2KCYGC4D2TM4OXXG73MGMZ7
 
 🔗 **Contract Address:**
 `CD6AOLKD2KCYGC4D2TM4OXXG73MGMZ7EV3KRROUX6OHWWB3SIY2VQ2SL`
+
+DEPLOYED LINK
+https://stellar.expert/explorer/testnet/contract/CD6AOLKD2KCYGC4D2TM4OXXG73MGMZ7EV3KRROUX6OHWWB3SIY2VQ2SL
 
 👉 You can interact with it using the Soroban CLI or Stellar tools.
 
